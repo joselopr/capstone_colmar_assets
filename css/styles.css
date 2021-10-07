@@ -2,6 +2,14 @@ html {
   font-family: sans-serif;
 }
 
+h1 {
+  font-size: 48px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
 header {
     height: 64px;
     max-width: 100%;
@@ -20,4 +28,29 @@ header {
   text-decoration: none;
   color: black;
   padding-left: 16px;
-  }
+}
+
+.main-section {
+  display: inline-flex;
+  background-color: lightgray;
+  width: 99vw;
+}
+
+.main-section img {
+  width: 60%;
+  margin: 32px 24px;
+}
+
+.main-card {
+  align-self: center;
+  margin: auto 24px;
+}
+
+.btn-start {
+  padding: 20px 140px;
+  background-color: darkgrey;
+  font-size: 18px;
+  border-color: black;
+}
+
+
