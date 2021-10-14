@@ -53,4 +53,29 @@ header {
   border: none;
 }
 
+.section-info {
+  display: inline-flex;
+}
 
+.intro-section {
+  margin: 32px 24px;
+}
+
+.intro-section img {
+  width: 91%;
+}
+
+.intro {
+  width: 60%;
+}
+
+.intro, p{
+  margin-top: 24px;
+}
+.intro, h1 {
+  margin: 32px 0;
+}
+.info-orientation {
+  display: flex;
+  width: 31%;
+}
